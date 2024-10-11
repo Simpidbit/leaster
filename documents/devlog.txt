@@ -1,0 +1,10 @@
+[2024/10/10]
+给本项目命名为Leaster，即 "Learning master".
+用Qt Creator创建了项目，使用CMake作为编译工具.
+建立git仓库：https://github.com/Simpidbit/leaster.git
+首次向git仓库提交了代码.
+创建了一些文档：README.md(用户手册)
+                devlog.txt(开发日志)
+                development.md(开发文档)
+
+
