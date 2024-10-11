@@ -1,0 +1,10 @@
+# ninja log v6
+4	61	7503490139095509	E:/code/program/leaster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	560593cd4a116396
+63	750	7503490145858309	leaster_autogen/timestamp	77e587395164b323
+63	750	7503490145858309	leaster_autogen/mocs_compilation.cpp	77e587395164b323
+63	750	7503490145858309	E:/code/program/leaster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/leaster_autogen/timestamp	77e587395164b323
+63	750	7503490145858309	E:/code/program/leaster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/leaster_autogen/mocs_compilation.cpp	77e587395164b323
+756	2164	7503490146613460	CMakeFiles/leaster.dir/leaster_autogen/mocs_compilation.cpp.obj	5f653702cb5ea099
+763	2195	7503490146683462	CMakeFiles/leaster.dir/main.cpp.obj	92431be6b111bed5
+769	2220	7503490146753472	CMakeFiles/leaster.dir/q_main_window_t.cpp.obj	933198fc9476e59
+2220	2338	7503490161253903	leaster.exe	3657886bed06be0e

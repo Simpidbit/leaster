@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8d6227b4329f4889ee23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leaster",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "leaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leaster-Debug-22efd91948e013856446.json",
+					"name" : "leaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leaster_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leaster_autogen-Debug-e78bc40609e74635f89c.json",
+					"name" : "leaster_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leaster_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leaster_autogen_timestamp_deps-Debug-62ebc6077969b270b9d6.json",
+					"name" : "leaster_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/program/leaster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/code/program/leaster"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
